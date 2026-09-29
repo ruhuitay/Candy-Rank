@@ -1,4 +1,4 @@
-# candy_rank
+# Candy Rank
 Which is the best feature in a candy? Is it chocolately, peanuty, almondy, fruity or maybe a hard candy?
 Based on 538's article (https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/), I am ranking the best features that make the ideal candy using a multi-regression model. 
 
